@@ -98,9 +98,9 @@ The evaluation program is in the evaluation folder, and the metrics it uses are 
 
 
 ### Three prompting modes:
-- Direct: `response1_title_only`
-- Grade-aware: `response2_title_grade`
-- Knowledge-aware: `response3_title_knowledge`
+- Unconstrained: `response1_title_only`
+- Grade-constrained: `response2_title_grade`
+- Knowledge-Constrained: `response3_title_knowledge`
 
 ### Run the evaluation scripts:
 ```shell

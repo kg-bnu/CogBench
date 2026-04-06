@@ -1,4 +1,11 @@
-<img width="1024" height="1024" alt="Gemini_Generated_Image_1p5o1e1p5o1e1p5o" src="https://github.com/user-attachments/assets/82f69084-3780-4f6f-b850-31016638e300" />
+<p align="center">
+  <img
+    width="512"
+    height="512"
+    alt="Gemini_Generated_Image_1p5o1e1p5o1e1p5o"
+    src="https://github.com/user-attachments/assets/82f69084-3780-4f6f-b850-31016638e300"
+  />
+</p>
 <h1 align="center">CogBench: Benchmarking Cognitive Alignment of Large Language Models in Educational Question Answering</h1>
 <p align="center">
   <!-- <!-- Stars / Forks -->

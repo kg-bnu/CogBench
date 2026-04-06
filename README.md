@@ -132,8 +132,7 @@ Web Page: https://cogbench.lutong.space/
 If you use CogBench or our construction framework, please cite:
 ```mathematica
 @article{CogBench2026,
-  title={CogBench: BenchmarkingCognitiveAlignmentofLargeLanguageModels
-inEducationalQuestionAnswering},
+  title={CogBench: Benchmarking Cognitive Alignment of Large Language Models in Educational Question Answering},
   author={Tong Lu, Zhichun Wang, Yuanhao Sun, Yaoyu Zhou, Mingrui Li,Yiming Guan, Zhiyong Bai},
   year={2026},
   journal={Findings of ACL}

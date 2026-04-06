@@ -1,0 +1,6 @@
+*.npy
+__pycache__
+"Fine_Tuning/models/*.safetensors" 
+*.log
+/data/models/*
+/llamaboard_cache/*

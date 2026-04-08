@@ -119,7 +119,7 @@ Dataset: https://huggingface.co/datasets/realEthanTLu/CogBench
 Web Page: https://cogbench.lutong.space/
 
 ### 🙏 Acknowledge
-On my own behalf, I would like to express my sincere gratitude to Jun Xue (https://scholar.google.com/citations?user=hN--bdYAAAAJ&hl=en) for his support and contributions to part of the code in this paper.
+On my own behalf, I would like to express my sincere gratitude to [Jun Xue](https://scholar.google.com/citations?user=hN--bdYAAAAJ&hl=en) for his support and contributions to part of the code in this paper.
 
 ## 📄 Citation
 If you use CogBench or our construction framework, please cite:

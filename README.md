@@ -93,16 +93,7 @@ CogBench is built using a Multi-solution–Alignment–Evaluation pipeline:
 - Reliability: high-quality, cognition-aware labels after expert review
 
 ## 📦 Usage
-Evaluation
 The evaluation program is in the evaluation folder, and the metrics it uses are in the metric folder.
-
-### Metric Explanations:
-- ACC: Under each of the three prompting modes, the accuracy when the model directly answers the subject question.
-- CAR: Under each of the three prompting modes, the accuracy of producing a correct answer using only knowledge whose grade tag is less than or equal to the current grade.
-- KAS: (Intersection of triples used by the standard answer and the LLM) divided by (triples used by the LLM).
-- PAD: For the same question, the difference between the knowledge used when the model answers from different grades.
-- AS: AS = CAR + KAS + PAD; under each of the three prompting modes, this is the overall score evaluating the model’s adaptation to human cognition (grade).
-
 
 ### Three prompting modes:
 - Unconstrained: `response1_title_only`
@@ -127,6 +118,8 @@ Dataset: https://huggingface.co/datasets/realEthanTLu/CogBench
 
 Web Page: https://cogbench.lutong.space/
 
+### 🙏 Acknowledge
+On my own behalf, I would like to express my sincere gratitude to Jun Xue (https://scholar.google.com/citations?user=hN--bdYAAAAJ&hl=en) for his support and contributions to part of the code in this paper.
 
 ## 📄 Citation
 If you use CogBench or our construction framework, please cite:
